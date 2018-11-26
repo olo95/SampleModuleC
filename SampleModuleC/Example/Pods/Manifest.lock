@@ -1,0 +1,16 @@
+PODS:
+  - SampleModuleC (0.1.0)
+
+DEPENDENCIES:
+  - SampleModuleC (from `../`)
+
+EXTERNAL SOURCES:
+  SampleModuleC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleModuleC: ee1b18d4b341c8b2322917bdfb33ee02cfff8474
+
+PODFILE CHECKSUM: 2661b9083c9fd0e8dfbc338965069de99c2f6f82
+
+COCOAPODS: 1.5.3
