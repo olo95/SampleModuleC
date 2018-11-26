@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/olo95/SampleModuleC'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT', :file => 'SampleModuleC/LICENSE' }
   s.author           = { 'alexander.stolar@yahoo.com' => 'alexander.stolar@yahoo.com' }
   s.source           = { :git => 'https://github.com/olo95/SampleModuleC.git', :tag => '1.0.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
