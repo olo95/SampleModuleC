@@ -1,6 +1,6 @@
 
-class SampleCClass {
-    func saySomething() {
+open class SampleCClass {
+    open func saySomething() {
         print("SampleCCLass: Hello")
     }
 }

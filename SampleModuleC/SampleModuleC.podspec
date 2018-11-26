@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SampleModuleC'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Pod for dependencies, extensions, utils Alalalllalaalaalaalaalaal'
   s.swift_version    = '4.0'
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'SampleModuleC/LICENSE' }
   s.author           = { 'alexander.stolar@yahoo.com' => 'alexander.stolar@yahoo.com' }
-  s.source           = { :git => 'https://github.com/olo95/SampleModuleC.git', :tag => '1.0.0' }
+  s.source           = { :git => 'https://github.com/olo95/SampleModuleC.git', :tag => '1.0.1' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'

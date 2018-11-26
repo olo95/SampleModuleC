@@ -1,5 +1,5 @@
-class NextSampleCCLass {
-    func saySomething() {
+open class NextSampleCCLass {
+    open func saySomething() {
         print("NextSampleCClass: Hello")
     }
 }
